@@ -23,9 +23,9 @@ function LandingCards() {
                                 id="video-play-button"
                                 className="relative w-10 h-10 flex justify-center items-center cursor-pointer"
                             >
-                                <div class="w-full h-full rounded-full border-2 border-gray-500">
+                                <div className="w-full h-full rounded-full border-2 border-gray-500">
                                     <svg
-                                        class="fill-current text-gray-500"
+                                        className="fill-current text-gray-500"
                                         xmlns="http://www.w3.org/2000/svg"
                                         fill="none"
                                         viewBox="0 0 24 24"
